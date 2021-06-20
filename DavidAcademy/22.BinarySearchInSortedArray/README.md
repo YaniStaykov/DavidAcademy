@@ -1,6 +1,6 @@
 # Binary search in sorted array
 
-* This is a console application that finds a nubmer in sorted array usig binary search.
+* This is a console application that finds a number in sorted array usig binary search.
 
 ## Example
 
